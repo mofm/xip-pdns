@@ -7,3 +7,6 @@ Install this on your system, adjust [etc/xip-pdns.conf](etc/xip-pdns.conf.exampl
     launch=pipe
     pipe-command=/path/to/xip-pdns/bin/xip-pdns /path/to/xip-pdns/etc/xip-pdns.conf
 
+#### Build Docker Image
+
+A basic Dockerfile has been added to build a Docker image.
